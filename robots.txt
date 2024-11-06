@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://blog.charleschile.com/al-folio/sitemap.xml
+Sitemap: https://blog.charleschile.com/sitemap.xml
